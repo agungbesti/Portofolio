@@ -13,7 +13,7 @@ No |  Title  | Link | Information | Role |
 6|Machine Learning Project : Climate Change Earth Surface Temperature Data Time Series | https://github.com/agungbesti/Climate-Change-Earth-Surface-Temperature-Data | Dicoding Project| Data Collection, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
 7|Machine Learning Project : Movie Classification Natural Language Processing |  https://github.com/agungbesti/Movie-Genre-Data | Dicoding Project | Data Collection, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
 8|Machine Learning Project : Rock Paper Scissors Image Classification | https://github.com/agungbesti/Rock-Paper-Scissors | Dicoding Final Project | Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
-
+9|Semantic Classification of Scientific Sentence Pair Using Recurrent Neural Network | Coming Soon | Research link: https://ieeexplore.ieee.org/document/9251897 | Author |
 
 
 
