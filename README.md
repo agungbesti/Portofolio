@@ -1,19 +1,18 @@
 # Portofolio
-# My Portofolio
 
 
 Some of the programs I created :
 
 No |  Title  | Link | Information | Role |
 ------|--------|---------------|-------|-------|
-1|Data Science Project : RFM Analysis Online Retail  |  https://github.com/agungbesti/RFM-Analysis-Online-Retail | DTS Project | Business Understanding, Data Understanding, Data Cleaning and Preparation, Exploratory Data Analysis |
-2|Data Science Project : RFM Analysis Online Retail|Coming Soon| Thesis |
-3|The Aim of This Program is to Recognize 3 Images in The Form of Rock Paper Scissors) |https://github.com/DevRichan/PF-3-Final-Project-DeepLearning-RockPaperScissors-Dicoding| Dicoding Certification|
-4|Data Science in Telco Part I : Data Cleansing |  https://github.com/DevRichan/PF-2-Data-Science-in-Telco-Data-Cleansing-DQLAB | DQLab Project |
-5|Data Science in Telco Part II : Customer Churn Prediction using Machine Learning |https://github.com/DevRichan/PF-5-Customer-Churn-Data-Telco-DQLAB| DQLab Project|
-6|Housing price in Beijing |  https://github.com/DevRichan/PF-4-Final-Project-Purwadhika-House-Price-In-Beijing | Final Project Purwadhika |
-7|Japan Hostel (Price predictions & Analysis) | Coming Soon | Personal Project|
-
+1|Data Science Project : RFM Analysis Online Retail  |  https://github.com/agungbesti/RFM-Analysis-Online-Retail | Digital Talent Scholarship Data Scientist Final Project | Business Understanding, Data Collection, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Exploratory Data Analysis, Visualisasi |
+2|Data Science Project : Toronto-Bikeshare-Data| https://github.com/agungbesti/Toronto-Bikeshare-Data | Digital Talent Scholarship Data Scientist Project Project | Business Understanding, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Exploratory Data Analysis, Visualisasi |
+3|Data Science Project: McDonald-s-Nutrition-Facts-Data |https://github.com/agungbesti/McDonald-s-Nutrition-Facts-Data| Digital Talent Scholarship Data Scientist Project| Business Understanding, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Exploratory Data Analysis, Visualisasi |
+4|Data Science Project : Clustering the Neighbourhoods of London and Paris | https://github.com/agungbesti/Clustering-the-Neighbourhoods-of-London-and-Paris | Coursera Final Project | Data Collection, Data Understanding, Data Wragling, Data Quality, Data Preprocessing, Feature Selection, Feature Engineering, Model Building, Visualisasi  |
+5|Machine Learning Project : Fruit Image Classification |  https://github.com/agungbesti/Fruits-Image-Classification | Final Project Dicoding | Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
+6|Machine Learning Project : Climate Change Earth Surface Temperature Data Time Series | https://github.com/agungbesti/Climate-Change-Earth-Surface-Temperature-Data | Dicoding Project| Data Collection, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
+7|Machine Learning Project : Movie Classification Natural Language Processing |  https://github.com/agungbesti/Movie-Genre-Data | Dicoding Project | Data Collection, Data Understanding, Data Wragling, Data Quality, Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
+8|Machine Learning Project : Rock Paper Scissors Image Classification | https://github.com/agungbesti/Rock-Paper-Scissors | Dicoding Final Project | Data Cleaning and Preparation, Split data train dan validation, Build Model machine learning, Hyperparameter tunning, Plot Evaluation Metric |
 
 
 
